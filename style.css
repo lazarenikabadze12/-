@@ -3,14 +3,79 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-.aboutus {
-  width: 1090px;
-  height: 1090px;
-  opacity: 1;
-  color: rgb(0, 0, 0);
-  background-color: #e7e7e7;
-  margin-top: 100px;
-  margin-left: 300px;
+h1 {
+  margin-left: 700px;
+  margin-top: 50px;
+}
+.registracia > h6 {
+  position: absolute;
+  top: 52px;
+  left: 61px;
+  font-size: 50px;
+  font-weight: 500;
+  font-family: "Roboto";
+  color: rgb(37, 37, 37);
+  margin-left: 200px;
+  margin-top: 300px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 40px;
 }
 
+.registracia > img {
+  width: 662px;
+  height: 386px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.registracia {
+  margin-top: 100px;
+  padding: 0 144px;
+  display: flex;
+  gap: 20px;
+}
+
+.desc {
+  flex: 2;
+  border: 2px solid rgba(212, 211, 211, 1);
+  background-color: rgba(248, 248, 248, 1);
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(153, 153, 154, 1);
+  padding: 23px 21px;
+}
+
+.cont input {
+  border: 2px solid rgba(212, 211, 211, 1);
+  background-color: rgba(248, 248, 248, 1);
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(153, 153, 154, 1);
+  padding: 23px 21px;
+}
+
+.cont {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  flex: 1;
+}
+
+.button {
+  height: 59px;
+  background-color: rgba(89, 104, 244, 1);
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  text-decoration: none;
+  border-radius: 50px;
+  align-items: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 100px;
+  justify-content: center;
+  display: flex;
+}
