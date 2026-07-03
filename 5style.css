@@ -1,0 +1,227 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card1 {
+  width: 2090px;
+  height: 705px;
+  opacity: 1;
+  color: rgb(0, 0, 0);
+  background-color: #e7e7e7;
+  margin-top: 170px;
+  margin-left: -400px;
+}
+.Japan {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 700;
+  font-style: 55 Roman;
+  font-size: 70px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 1000px;
+}
+.price {
+  margin-left: 95px;
+  margin-top: -45px;
+  width: 100px;
+}
+.photo > img {
+  position: absolute;
+  width: 1062px;
+  height: 486px;
+  margin-left: 1000px;
+  margin-top: -400px;
+}
+.text1 {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 400;
+  font-style: 55 Roman;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 1300px;
+}
+.card {
+  position: absolute;
+  height: 700px;
+  margin-left: 300px;
+}
+
+.card2 {
+  position: absolute;
+  width: 1700px;
+  height: 700px;
+  opacity: 1;
+  color: rgb(0, 0, 0);
+  background-color: #e7e7e7;
+  margin-top: 500px;
+  margin-left: -400px;
+}
+.usa {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 700;
+  font-style: 55 Roman;
+  font-size: 70px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 650px;
+}
+.img {
+  position: absolute;
+  width: 1000px;
+  height: 486px;
+  margin-left: 650px;
+  margin-top: -320px;
+}
+.text2 {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 400;
+  font-style: 55 Roman;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 1300px;
+  width: 400px;
+}
+.card2 {
+  margin-left: -100px;
+}
+.card-body2 {
+  position: absolute;
+  height: 70px;
+  margin-left: 200px;
+  background-color: rgb(255, 255, 255);
+  width: 270px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-left: -400px;
+}
+.price2 {
+  margin-left: 30px;
+  margin-right: 60px;
+}
+.card3 {
+  position: absolute;
+  width: 1700px;
+  height: 700px;
+  opacity: 1;
+  color: rgb(0, 0, 0);
+  background-color: #e7e7e7;
+  margin-top: 500px;
+  margin-left: -00px;
+}
+.feance {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 700;
+  font-style: 55 Roman;
+  font-size: 70px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 650px;
+}
+.img2 {
+  position: absolute;
+  width: 1000px;
+  height: 486px;
+  margin-left: 660px;
+  margin-top: -450px;
+}
+.text3 {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 400;
+  font-style: 55 Roman;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 1300px;
+  width: 400px;
+}
+.card-body3 {
+  position: absolute;
+  height: 70px;
+  background-color: rgb(255, 255, 255);
+  width: 270px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-top: -500px;
+}
+
+.price3 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.card4 {
+  position: absolute;
+  width: 1700px;
+  height: 700px;
+  opacity: 1;
+  color: rgb(0, 0, 0);
+  background-color: #e7e7e7;
+  margin-top: 200px;
+  margin-left: -100px;
+  margin-right: -100px;
+}
+.Brasil {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 700;
+  font-style: 55 Roman;
+  font-size: 70px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 650px;
+}
+.img3 {
+  position: absolute;
+  width: 1000px;
+  height: 486px;
+  margin-left: 660px;
+  margin-top: -450px;
+}
+.text4 {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 400;
+  font-style: 55 Roman;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 1300px;
+  width: 400px;
+}
+.card4 {
+  margin-left: -60px;
+}
+.card-body4 {
+  position: absolute;
+  height: 70px;
+  background-color: rgb(255, 255, 255);
+  width: 270px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-top: -500px;
+  margin-left: -100px;
+}
+
+.price4 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
