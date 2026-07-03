@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.contacts {
+  width: 2105px;
+  height: 505px;
+  opacity: 1;
+  color: rgb(0, 0, 0);
+  background-color: #e7e7e7;
+  margin-top: 170px;
+  margin-left: -400px;
+}
+.number {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 400;
+  font-style: 55 Roman;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 500px;
+}
+.gmail {
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 400;
+  font-style: 55 Roman;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 500px;
+}
+.header {
+  color: #4e6fae;
+  margin-left: 500px;
+}
+.Home {
+  width: 115px;
+  height: 34px;
+  opacity: 1;
+  font-family: FiraGO;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 26px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-left: 50px;
+  margin-top: 30px;
+  color: #4e6fae;
+}
+
+.map > img {
+  position: absolute;
+  width: 862px;
+  height: 486px;
+  margin-left: 1150px;
+  margin-top: -150px;
+}
+.facebook {
+  position: absolute;
+  font-family: Helvetica Neue LT GEO;
+  font-weight: 400;
+  font-style: 55 Roman;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 500px;
+  text-decoration: none;
+  margin-top: 50px;
+}
